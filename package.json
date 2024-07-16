@@ -1,5 +1,5 @@
 {
-  "name": "leavesmc-api-v2-dev",
+  "name": "icecreamapi",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,9 +14,13 @@
     "vclight": "^3.1.2"
   },
   "devDependencies": {
-    "@vercel/node": "^3.1.6",
     "@netlify/functions": "^2.7.0",
-    "vercel": "^34.2.4",
-    "netlify-cli": "^17.25.0"
-  }
+    "@vercel/node": "^3.1.6",
+    "netlify-cli": "^17.25.0",
+    "vercel": "^32.3.0"
+  },
+  "main": "generateAccessToken.js",
+  "author": "IceCreamMC",
+  "license": "ISC",
+  "description": ""
 }
