@@ -963,9 +963,9 @@
                 "version": "1.21",
                 "channel": "default",
                 "changes": "changes",
-                "jar_name": "IceCream-paperclip-1.21-R0.1-SNAPSHOT-mojmap.jar",
+                "jar_name": "IceCream-1.21.jar",
                 "sha256": "sha256",
-                "tag": "1.20.1-1a2b3c4"
+                "tag": "29"
               }
             }
           }
